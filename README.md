@@ -1,4 +1,6 @@
-<img width="100%" src="https://i.ibb.co/JK1PN3p/cover.jpg">
+<p align="center">
+  <img src="https://i.ibb.co/JK1PN3p/cover.jpg" alt="Cover Image" style="max-width: 100%; height: auto;" />
+</p>
 <h1 align="center">Hi 👋, I'm Yasin Ahmed</h1>
 <h3 align="center">A passionate Mern Stack developer from Somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XXq1r46/Simple-Black-and-White-Text-Instagram-Post-1.gif">
@@ -6,17 +8,13 @@
 
 [![committers.top badge](https://user-badge.committers.top/somalia/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia/yaasiinaxmed)
 
-- 🔭 I’m currently working on [Amesa Solutions](https://amesasolutions.com)
-
-- 🌱 I'm planning to learn **NextJs & Typescript**
-
-- 👨‍💻 All of my projects are available at [https://amesasolutions.com/portfolio](https://amesasolutions.com/portfolio)
+- 🌱 I’m currently learning **Solidity, Hardhat**, and **Solana (Rust)** for blockchain development.
 
 - 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **yaskasssoy@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://yasinahmed.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://linktr.ee/yaasinahmed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
