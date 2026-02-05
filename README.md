@@ -43,4 +43,4 @@ I also founded Alpha Journal, an AI-powered trade journaling platform for crypto
 
 ---
 
-"Build fast. Ship clean. Keep learning."
+"Build fast. Ship clean. Never stop learning."
