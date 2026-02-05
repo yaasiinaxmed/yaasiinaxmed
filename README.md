@@ -36,5 +36,14 @@ I also founded Alpha Journal, an AI-powered trade journaling platform for crypto
 "Build fast. Ship clean. Keep learning."
 
 ## GitHub Stats
-![Yasin Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaasiinaxmed&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasiinaxmed&layout=compact&theme=transparent)
+![Yasin Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaasiinaxmed&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasiinaxmed&layout=compact&theme=transparent&langs_count=8)
+
+## Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=yaasiinaxmed&theme=transparent&hide_border=true)
+
+## Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaasiinaxmed&theme=github-compact&hide_border=true)
+
+## Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/yaasiinaxmed/yaasiinaxmed/output/github-contribution-grid-snake.svg)
