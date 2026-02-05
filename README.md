@@ -6,9 +6,9 @@ Software Engineer | Full Stack Developer
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
 
 ## About Me
-I am a self-taught Software Engineer focused on building scalable web and mobile applications. I currently work at Pathway Solutions, where I lead and collaborate with ICT developers on management and financial systems within the NetSom Product Suite. I build with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments using Docker.
+I’m a self‑taught Software Engineer focused on scalable web and mobile systems. At Pathway Solutions, I lead and collaborate with ICT developers on management and financial platforms in the NetSom Product Suite, building with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments using Docker.
 
-I also founded Alpha Journal, an AI-powered trade journaling platform for crypto and forex traders. Previously, I worked at TheChain Limited on workflow and platform improvements, and I continue freelance web design work.
+I also founded Alpha Journal, an AI‑powered trade journaling platform for crypto and forex traders. Previously, I worked at TheChain Limited on workflow and platform improvements, and I continue freelance web design work.
 
 ## Tech Stack
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -32,8 +32,8 @@ I also founded Alpha Journal, an AI-powered trade journaling platform for crypto
 ![Coolify](https://img.shields.io/badge/Coolify-2b2b2b?style=for-the-badge&logo=coolify&logoColor=white)
 
 ## Projects
-- Alpha Journal: AI-powered trade journaling for crypto and forex traders
-- NetSom Product Suite: Management and financial systems for enterprise operations
+- **Alpha Journal** — AI‑powered trade journaling for crypto and forex traders.
+- **NetSom Product Suite** — Management and financial systems for enterprise operations.
 
 ## Contact
 [![Website](https://img.shields.io/badge/Website-yasinahmed.xyz-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yasinahmed.xyz)
