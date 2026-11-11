@@ -8,7 +8,7 @@ Software Engineer | Full Stack Developer
 ## About Me
 I’m a self‑taught Software Engineer focused on scalable web and mobile systems. At [Pathway Solutions](https://pathwaysolution.so/), I lead and collaborate with ICT developers on management and financial platforms in the NetSom Product Suite, building with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments on a self‑hosted platform using Docker.
 
-I also founded [Alpha Journal](https://www.app.yasinahmed.xyz), an AI‑powered trade journaling platform for crypto and forex traders. Previously, I worked at [TheChain Limited](https://thechain.so/) on workflow and platform improvements, and I continue freelance web design work.
+I also founded [Alpha Journal](https://app.yasinahmed.xyz), an AI‑powered trade journaling platform for crypto and forex traders. Previously, I worked at [TheChain Limited](https://thechain.so/) on workflow and platform improvements, and I continue freelance web design work.
 
 ## Tech Stack
 ![TypeScript](https://skillicons.dev/icons?i=ts)
