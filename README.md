@@ -1,18 +1,20 @@
 # Yasin Ahmed
 
-Software Engineer | Full Stack Developer
+Software Engineer | Full Stack & Systems Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaasiinaxmed&style=flat&color=blue)
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
 
 ## About Me
-I’m a Software Engineer with a deep passion for building scalable, high-performance systems and clean software architectures.
+I’m a Software Engineer with a deep passion for building scalable, high-performance software, enterprise architectures, and robust security systems.
 
-Currently at [Pathway Solutions](https://pathwaysolutions.so/), leading software engineering initiatives and building enterprise web and mobile applications across the NetSom Product Suite.
+Currently at [Pathway Solutions](https://pathwaysolutions.so/), leading software engineering initiatives and developing enterprise web and mobile applications.
 
-Beyond web and mobile platforms, I build systems in **Rust**, develop custom **WordPress themes & PHP** solutions, and manage production Linux infrastructure with Docker.
+Beyond core product engineering, I build systems in **Rust**, develop custom **WordPress themes & PHP** platforms, and apply hands-on cybersecurity practices — including **SOC operations, SIEM telemetry, and SOAR automation** — alongside Linux infrastructure hardening and Docker deployments.
 
-## Tech Stack
+## Tech Stack & Capabilities
+
+### Development & Frameworks
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -24,6 +26,8 @@ Beyond web and mobile platforms, I build systems in **Rust**, develop custom **W
 ![React Native](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
+
+### Databases, Infrastructure & Security
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -31,9 +35,11 @@ Beyond web and mobile platforms, I build systems in **Rust**, develop custom **W
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![VPS](https://img.shields.io/badge/VPS-Server-0f172a?style=for-the-badge&logo=server&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-2b2b2b?style=for-the-badge&logo=coolify&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-Security_Operations-1e293b?style=for-the-badge&logo=shield&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Threat_Telemetry-0284c7?style=for-the-badge&logo=datadog&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-Sec_Automation-0d9488?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ## Contact
 [![Website](https://img.shields.io/badge/Website-yasinahmed.xyz-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://yasinahmed.xyz)
