@@ -6,9 +6,18 @@ Software Engineer | Full Stack Developer
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
 
 ## About Me
-I’m a self‑taught Software Engineer focused on scalable web and mobile systems. At [Pathway Solutions](https://pathwaysolutions.so/), I lead and collaborate with developers on management and financial platforms in the NetSom Product Suite, building with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments on a self‑hosted platform using Docker.
+I’m a self‑taught Software Engineer with an absolute passion for building software from the ground up, engineering resilient architectures, and solving real-world challenges.
 
-I also build high-performance systems in **Rust** across multiple projects, develop custom **WordPress themes & PHP** solutions, and previously worked at [TheChain Limited](https://thechain.so/) on workflow and platform improvements.
+At [Pathway Solutions](https://pathwaysolutions.so/), I lead engineering initiatives and collaborate with developers across the **NetSom Product Suite** — developing mission-critical systems including:
+- **NetSom Microfinance** (core banking modernization & financial systems)
+- **NetSom Hospital** (healthcare administration & operations)
+- **NetSom SME** (enterprise business management)
+- **NetSom Hotel & Cargo** (hospitality and logistics solutions)
+- **NetSom SOC** (real-time threat telemetry, SSH auditing & infrastructure security)
+
+I love the craft of software engineering: building scalable backends, high-performance systems in **Rust**, custom **WordPress themes & PHP** platforms, and modern web & mobile apps using TypeScript, Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and Docker on self-hosted Linux VPS environments.
+
+Previously, I engineered platforms at [TheChain Limited](https://thechain.so/), modernizing internal workflows and government digital portals.
 
 ## Tech Stack
 ![Rust](https://skillicons.dev/icons?i=rust)
