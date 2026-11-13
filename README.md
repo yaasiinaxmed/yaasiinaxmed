@@ -6,18 +6,11 @@ Software Engineer | Full Stack Developer
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
 
 ## About Me
-I’m a self‑taught Software Engineer with an absolute passion for building software from the ground up, engineering resilient architectures, and solving real-world challenges.
+I’m a Software Engineer with a deep passion for building scalable, high-performance systems and clean software architectures.
 
-At [Pathway Solutions](https://pathwaysolutions.so/), I lead engineering initiatives and collaborate with developers across the **NetSom Product Suite** — developing mission-critical systems including:
-- **NetSom Microfinance** (core banking modernization & financial systems)
-- **NetSom Hospital** (healthcare administration & operations)
-- **NetSom SME** (enterprise business management)
-- **NetSom Hotel & Cargo** (hospitality and logistics solutions)
-- **NetSom SOC** (real-time threat telemetry, SSH auditing & infrastructure security)
+Currently at [Pathway Solutions](https://pathwaysolutions.so/), leading software engineering initiatives and building enterprise web and mobile applications across the NetSom Product Suite.
 
-I love the craft of software engineering: building scalable backends, high-performance systems in **Rust**, custom **WordPress themes & PHP** platforms, and modern web & mobile apps using TypeScript, Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and Docker on self-hosted Linux VPS environments.
-
-Previously, I engineered platforms at [TheChain Limited](https://thechain.so/), modernizing internal workflows and government digital portals.
+Beyond web and mobile platforms, I build systems in **Rust**, develop custom **WordPress themes & PHP** solutions, and manage production Linux infrastructure with Docker.
 
 ## Tech Stack
 ![Rust](https://skillicons.dev/icons?i=rust)
