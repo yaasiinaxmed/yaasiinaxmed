@@ -1,6 +1,6 @@
 # Yasin Ahmed
 
-Software Engineer | Full Stack & Systems Developer
+Software Engineer | Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaasiinaxmed&style=flat&color=blue)
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
