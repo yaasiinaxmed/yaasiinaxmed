@@ -1,14 +1,14 @@
 # Yasin Ahmed
 
-Lead Software Engineer & ICT Manager | Full Stack Developer
+Software Engineer | Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaasiinaxmed&style=flat&color=blue)
 [![committers.top badge](https://user-badge.committers.top/somalia_private/yaasiinaxmed.svg)](https://user-badge.committers.top/somalia_private/yaasiinaxmed)
 
 ## About Me
-I’m a self‑taught Software Engineer focused on scalable web and mobile systems. At [Pathway Solutions](https://pathwaysolutions.so/), I lead and collaborate with ICT developers on management and financial platforms in the NetSom Product Suite, building with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments on a self‑hosted platform using Docker.
+I’m a self‑taught Software Engineer focused on scalable web and mobile systems. At [Pathway Solutions](https://pathwaysolutions.so/), I lead and collaborate with developers on management and financial platforms in the NetSom Product Suite, building with TypeScript, React/Next.js, React Native (Expo), PostgreSQL, MongoDB, Prisma/Drizzle, and production deployments on a self‑hosted platform using Docker.
 
-I also build high-performance systems in **Rust** across multiple projects, develop custom **WordPress themes & PHP** solutions, and founded [Alpha Journal](https://app.yasinahmed.xyz), an AI‑powered trade analytics platform for crypto and forex traders. Previously, I worked at [TheChain Limited](https://thechain.so/) on workflow and platform improvements.
+I also build high-performance systems in **Rust** across multiple projects, develop custom **WordPress themes & PHP** solutions, and previously worked at [TheChain Limited](https://thechain.so/) on workflow and platform improvements.
 
 ## Tech Stack
 ![Rust](https://skillicons.dev/icons?i=rust)
