@@ -15,6 +15,7 @@ Beyond core product engineering, I build systems in **Rust**, develop custom **W
 ## Tech Stack & Capabilities
 
 ### Development & Frameworks
+![Python](https://skillicons.dev/icons?i=python)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
